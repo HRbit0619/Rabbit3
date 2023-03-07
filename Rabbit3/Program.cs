@@ -11,7 +11,11 @@ namespace Rabbit3
             Console.Write("Wirte");
             Console.Write("Wirte");
             Console.Write("Wirte");
-            
+            Console.Write("꺄륵");
+
+
+
+
 
         }
     }
